@@ -1,0 +1,61 @@
+header {
+    background-color: #333333;
+}
+div {
+    margin-left:10%;
+}
+body {
+    margin:0;
+    width:100%;
+}
+article {
+    padding: 10%;
+}
+nav { 
+    float: right;
+    margin-right: 150px;
+}
+nav li a{
+
+    color:#ff0099;
+}
+nav li { 
+    display:inline-block;
+    margin: 0 10px;
+    margin-right: 50px; 
+}
+
+h1 {
+    color: black;
+    font-size: 300%;
+    font-weight:bold;
+}
+h2 {
+    color: rgb(255, 7, 201);
+}
+h3 {
+    font-size: 200%;
+    text-align: center;
+}
+h4 {
+    font-size: 150%;
+}
+h5 {
+    text-size-adjust: 200%;
+    text-align-last: center;
+    padding: 20px;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: "courier";
+}
+body p {
+    font-family: "consolas";
+}
+
+/*h1,h2,h4, article p {
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+
